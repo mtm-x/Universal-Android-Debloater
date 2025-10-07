@@ -1,5 +1,6 @@
 # Under development
 Looking for colobs to improve. Written in C++ and QML. Inspired by ![universal-android-debloater](https://github.com/0x192/universal-android-debloater.git)
+You can find QML + Python version --> ![here](https://github.com/mtm-x/DroidDebloat.git)
 # Screenshots 
 <img width="1000" height="892" alt="2025-10-04-224439_hyprshot" src="https://github.com/user-attachments/assets/ae7c18f4-bc2e-4628-b58a-4bc4024ecf6e" />
 <img width="979" height="907" alt="2025-10-04-224644_hyprshot" src="https://github.com/user-attachments/assets/95f09d9c-6669-436b-9e17-e57c830f48ef" />
